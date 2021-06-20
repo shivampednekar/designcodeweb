@@ -58,15 +58,15 @@
 
   In this section, we'll be adding a floating menu. Once it's added, we'll use React hooks to toggle its display when the user clicks on it.
 
-  - ### Visibility and Loop Condition
+- ### Visibility and Loop Condition
 
   Now, that we're done adding the tooltip menu, we'll be applying a CSS transition for when the user clicks on it. Lastly, we'll also set its visibility by passing props to the styled-components.
 
-  - ### Function Event and PreventDefault
+- ### Function Event and PreventDefault
 
   In this section, we'll add a function that will run when the user clicks on the button. You'll also learn how to prevent the default behavior of an element.
 
-  - ### Wave Component and Inline Styling
+- ### Wave Component and Inline Styling
 
   In the design file, we've a wavey background! This section will teach you how to go about achieving exactly that.
 
@@ -74,10 +74,10 @@
 
   In this section, you'll learn how to add a start animation using delays. Additonally, you'll also learn more about selectors.
 
-  - ### Text Gradient and Media Queries
+- ### Text Gradient and Media Queries
 
   An application must always be adaptive. This section uses media queries to make the layout adaptive to all screen sizes.In addition to this, you'll also learn how to add gradients to text elements.
 
-  - ### useEffect and Deploy to Netlify
+- ### useEffect and Deploy to Netlify
 
   One of the most commonly used hooks is the useEffect hook. In this section, you'll be learning about this hook. The final step involves deploying the application.
